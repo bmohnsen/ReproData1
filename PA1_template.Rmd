@@ -1,6 +1,7 @@
-title: "Physical Activity" - Project 1
-output: html_document
-Created by Bonnie Mohnsen
+## title: "Physical Activity" - Project 1
+## output: html_document
+## Created by Bonnie Mohnsen
+
 
 Load and read data
 ```{r}
