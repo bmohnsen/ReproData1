@@ -79,10 +79,6 @@ Difference between Original mean and Tidy Mean
 ```{r}
 OrigMean - TidyMean
 ```   
-Difference between Original Median and Tidy Median
-```{r}
-OrigMedian - TidyMedian
-```    
 Tidy - differences between activity patterns on weekdays and weekends. Create a new factor variable(weekend (TRUE) or weekday)
 ```{r}
 Tidy$day <- weekdays(as.Date(Tidy$date))
